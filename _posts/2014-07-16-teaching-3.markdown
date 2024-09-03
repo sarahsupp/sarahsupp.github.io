@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2024-09-03
+img: teaching-3.png
+alt: image-alt
+last-updated: 2024
+client: 
+category: 
+description: I primarily teach courses as faculty in Denison University’s interdisciplinary Data Analytics Program. Students take core courses in Data Analytics, and identify a domain area in which they take additional courses to learn expertise in a field in which they can apply their advanced skills. This means I get to teach students with vastly different interests, backgrounds, and knowledge areas every day, from introductory to advanced levels.
+
+Fundamentally, I teach students programming in R, python, SQL, foundational statistics, data visualization, project design and management, team collaboration, frameworks for inclusive and ethical decision making, and research principles. From a human perspective, I model my teaching around 3 intersecting core principles: relationships and collaboration, taking calculated risks, and ethical choices. We engage in learning through project-based learning, including class discussions, mini-hackathons, consulting with outside partners, and multi-week lab exercises.
+---
