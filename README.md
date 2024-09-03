@@ -64,3 +64,5 @@ Credits:
 ```
 
 Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+This is a repository to make a free professional website. I would like to host my research and teaching professional info here, so I can sunset the old wordpress site.
+
