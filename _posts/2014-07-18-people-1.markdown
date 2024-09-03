@@ -2,7 +2,7 @@
 layout: default
 modal-id: People
 date: 2024-09-03
-img: cabin.png
+img: people-1.png
 alt: image-alt
 last-updated: 2024
 client: 
