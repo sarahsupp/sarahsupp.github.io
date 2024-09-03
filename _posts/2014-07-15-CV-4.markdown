@@ -2,9 +2,9 @@
 layout: default
 modal-id: 4
 date: 2024-09-03
-img: CV-4.png
+img: cv-4.png
 alt: image-alt
-last-updated: 2024-09-03
+last-updated: 2024
 client: 
 category: 
 description: Curriculum Vitae, to be posted here...
