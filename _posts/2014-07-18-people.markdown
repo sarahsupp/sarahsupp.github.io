@@ -7,10 +7,7 @@ alt: image-alt
 last-updated: 2024
 client: 
 category: 
-description: The Supp Lab conducts research in ecological systems, using large datasets and computational tools. Students who have worked in the Supp Lab includes undergraduates from several different majors at Denison University and a remote full-time data analyst with a Master's degree.
-
-**Principal Investigator, Dr. Sarah Supp**
-Dr. Sarah Supp conducts interdisciplinary ecological research using data science tools. Her favorite topics take a macroecological approach to understand patterns of biodiversity and animal movement across space and through time. She collaborates with a broad range of ecologists at other institutions, and frequently mentors undergraduates from Data Analytics, Computer Science, and Biology majors as research assistants. In her free time, she likes to go on adventures with her partner and two tiny humans.
+description: The Supp Lab conducts research in ecological systems, using large datasets and computational tools. Students who have worked in the Supp Lab includes undergraduates from several different majors at Denison University and a remote full-time data analyst with a Master's degree. **Principal Investigator, Dr. Sarah Supp** conducts interdisciplinary ecological research using data science tools. Her favorite topics take a macroecological approach to understand patterns of biodiversity and animal movement across space and through time. She collaborates with a broad range of ecologists at other institutions, and frequently mentors undergraduates from Data Analytics, Computer Science, and Biology majors as research assistants. In her free time, she likes to go on adventures with her partner and two tiny humans.
 
 
 ---
