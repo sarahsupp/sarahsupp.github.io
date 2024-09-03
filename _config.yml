@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Sarah R. Supp
+  copyright: Sarah R. Supp
   location: Granville, OH USA
   social: Around the Web
   credits: Credits
@@ -41,19 +41,16 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/srsupp
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
   - title: github
     url: http://github.com/sarahsupp
+  - title: linkedin
+    url: https://www.linkedin.com/in/sarahsupp/
 
 # Postal address (add as many lines as necessary)
 address:
+  - line: Data Analytics Program
   - line: 100 W. College Street
-  - line: Granville, OH 43023
+  - line: Granville, OH 43023 USA
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
