@@ -5,7 +5,7 @@ date: 2024-09-03
 img: people.png
 alt: flower-bloom
 project-date: 2024-09-03
-client: 
+client: d
 category: 
 description: The Supp Lab conducts research in ecological systems, using large datasets and computational tools. Students who have worked in the Supp Lab includes undergraduates from several different majors at Denison University and a remote full-time data analyst with a Master's degree.
 ---
