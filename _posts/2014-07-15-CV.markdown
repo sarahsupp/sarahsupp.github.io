@@ -4,7 +4,7 @@ modal-id: 4
 date: 2024-09-03
 img: cv-4.png
 alt: image-alt
-last-updated: 2024
+project-date: 2024-009-03
 client: 
 category: 
 description: Curriculum Vitae, to be posted here...
